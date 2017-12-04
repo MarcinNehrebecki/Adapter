@@ -1,0 +1,14 @@
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\aplikacja_telefon.csprojResolveAssemblyReference.cache
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\aplikacja_telefon.csproj.CoreCompileInputs.cache
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\bin\Debug\aplikacja_telefon.dll
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\bin\Debug\aplikacja_telefon.pdb
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\bin\Debug\aplikacja_telefon.aplikacja_telefon.apk
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\bin\Debug\aplikacja_telefon.aplikacja_telefon-Signed.apk
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\aplikacja_telefon.dll
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\aplikacja_telefon.pdb
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\android\bin\aplikacja_telefon.aplikacja_telefon.apk
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\res\layout\boxlistview.xml
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\res\layout\main.xml
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\res\values\strings.xml
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\R.cs.flag
+C:\KwiatNet\c#\aplikacja_telefon\aplikacja_telefon\obj\Debug\uploadflags.txt

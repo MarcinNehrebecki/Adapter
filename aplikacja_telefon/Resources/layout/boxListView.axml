@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="25px"
+        android:minWidth="25px"
+        android:layout_marginBottom="0.0dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout1">
+            <TextView
+                android:text="Towar"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/itemName"
+                android:width="360px" />
+            <TextView
+                android:text="id"
+                android:id="@+id/itemId"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:visibility="invisible" />
+            <EditText
+                android:inputType="numberSigned"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/itemQtyToNew"
+                android:minWidth="50px"
+                android:width="110px"
+                android:textSize="20px"
+                android:numeric="integer" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
